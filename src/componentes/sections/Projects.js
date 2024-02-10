@@ -28,7 +28,7 @@ function Projects(){
                     img = {calc}
                     tittle = "Calculadora simples"
                     tech = "JavaScript, HTML e CSS."
-                    description = "https://github.com/Ikaro444/Mini-projeto-calculadora.git"
+                    description = "Mini projeto onde criei uma calculadora que o usuário deve inserir os números e o operador matemático"
                     repo = "https://github.com/Ikaro444/Mini-projeto-calculadora.git"
                     site = "https://ikaro-calculadora.netlify.app/"
                 />
