@@ -8,7 +8,7 @@ function Navbar(){
             <ul>
                 <li className = {styles.link}><Nav.Link href='#Presentation'>APRSENTAÇÃO</Nav.Link></li>
                 <li className = {styles.link}><Nav.Link href='#Skills'>HABILIDADES</Nav.Link></li>
-                <li className = {styles.link}><Nav.Link href='#Project'>PROJETOS</Nav.Link></li>
+                <li className = {styles.link}><Nav.Link href='#Projects'>PROJETOS</Nav.Link></li>
             </ul>
             <ul>
                 <li><a href='https://www.instagram.com/ikaro_belem?igsh=Y2UycHY0dGdieGt1' target='blank'><FaInstagram size = {35}/></a></li>
